@@ -4,7 +4,7 @@ FinFlow Dashboard is a modern personal finance tracking web app built with React
 
 ## Live Demo
 
-https://finflow-dashboard-six.vercel.app/
+https://finance-three-inky.vercel.app/
 
 ---
 
